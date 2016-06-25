@@ -183,8 +183,9 @@
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(75, 23);
             this.btnEditar.TabIndex = 0;
-            this.btnEditar.Text = "Editar Perfil";
+            this.btnEditar.Text = "OK";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // linkVoltar
             // 

@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreProjetoLP2", "PreProjetoLP2\PreProjetoLP2.csproj", "{0B0136D4-4E78-4EED-8F3E-612E70208C04}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreProjetoLP2", "PreProjetoLP2.csproj", "{0B0136D4-4E78-4EED-8F3E-612E70208C04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
